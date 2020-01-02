@@ -1,0 +1,16 @@
+{
+    
+    "grpcport":"9990",
+    "grpcaddr":"localhost",
+    "httpaddr":"127.0.0.1",
+    "httpport":"8000",
+    "webport":"8001",
+    "webaddress":"127.0.0.1",
+    "ismaster":"true",
+    "systemtype": "Agent",
+	"updatedir":"./updates/",
+    "appname":"webLayer",
+    "logfile":"webLayer.log",
+    "certfolder":"extras/ssl/",
+    "cafile":"extras/ssl/ca.crt"
+}
